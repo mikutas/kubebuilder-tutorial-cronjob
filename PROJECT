@@ -1,0 +1,3 @@
+domain: tutorial.kubebuilder.io
+repo: github.com/tkms0106/kubebuilder-tutorial-cronjob
+version: "2"
